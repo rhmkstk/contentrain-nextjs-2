@@ -1,0 +1,21 @@
+[
+  {
+    "name": "starts",
+    "description": "test",
+    "fieldId": "starts",
+    "validations": {},
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "rating": {
+            "value": 3
+          }
+        }
+      }
+    },
+    "componentId": "rating",
+    "modelId": "test",
+    "fieldType": "number"
+  }
+]
