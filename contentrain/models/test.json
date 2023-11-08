@@ -31,5 +31,19 @@
     "componentId": "multi-line-text",
     "modelId": "test",
     "fieldType": "string"
+  },
+  {
+    "name": "asgasgagsags",
+    "description": "agsagsasgagsagsg",
+    "fieldId": "asgasgagsags",
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "test",
+    "fieldType": "string"
   }
 ]
