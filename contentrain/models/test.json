@@ -17,5 +17,19 @@
     "componentId": "rating",
     "modelId": "test",
     "fieldType": "number"
+  },
+  {
+    "name": "asgagasgs",
+    "description": "agssgasgagsasggs",
+    "fieldId": "asgagasgs",
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "options": {},
+    "componentId": "multi-line-text",
+    "modelId": "test",
+    "fieldType": "string"
   }
 ]
