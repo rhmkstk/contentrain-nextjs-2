@@ -45,5 +45,24 @@
     "componentId": "single-line-text",
     "modelId": "test",
     "fieldType": "string"
+  },
+  {
+    "name": "color",
+    "description": "asgasgagsasg",
+    "fieldId": "color",
+    "validations": {},
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "color": {
+            "value": "rgb(255, 138, 102)"
+          }
+        }
+      }
+    },
+    "componentId": "color",
+    "modelId": "test",
+    "fieldType": "string"
   }
 ]
