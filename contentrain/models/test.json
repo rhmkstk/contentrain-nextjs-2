@@ -64,5 +64,15 @@
     "componentId": "color",
     "modelId": "test",
     "fieldType": "string"
+  },
+  {
+    "name": "phone number",
+    "description": "test for",
+    "fieldId": "phone-number",
+    "validations": {},
+    "options": {},
+    "componentId": "phone-number",
+    "modelId": "test",
+    "fieldType": "number"
   }
 ]
