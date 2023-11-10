@@ -74,5 +74,15 @@
     "componentId": "phone-number",
     "modelId": "test",
     "fieldType": "number"
+  },
+  {
+    "name": "colortest",
+    "description": "agasgasg",
+    "fieldId": "colortest",
+    "validations": {},
+    "options": {},
+    "componentId": "color",
+    "modelId": "test",
+    "fieldType": "array"
   }
 ]
