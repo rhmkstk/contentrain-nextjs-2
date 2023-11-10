@@ -84,5 +84,15 @@
     "componentId": "color",
     "modelId": "test",
     "fieldType": "array"
+  },
+  {
+    "name": "singletest",
+    "description": "asgasgasgasgasg",
+    "fieldId": "singletest",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "test",
+    "fieldType": "array"
   }
 ]
